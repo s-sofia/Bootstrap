@@ -1,1 +1,7 @@
-# a-b_test_simulation
+# bootstrap
+Описание данных:
+value – значения метрики
+experimentVariant – Вариант теста (Control – контроль, Treatment – тест)
+
+Задача:
+сравнить группы двумя способами: бутстрапом и u-тестом
